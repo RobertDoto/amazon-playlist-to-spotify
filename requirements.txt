@@ -1,0 +1,12 @@
+# install with: pip install -r requirements.txt
+# minimum versions are the ones this project was tested with
+
+# create playlist/create_playlist.ipynb
+spotipy>=2.26.0
+python-dotenv>=1.2.4
+
+# grab data/data/clean track list.ipynb
+pandas>=3.0.5
+
+# runs the notebooks in VS Code / Jupyter
+ipykernel>=7.4.0
